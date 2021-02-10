@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InvalidArgumentException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="ClientException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="GuzzleException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="RequestException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="BadResponseException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="ConnectException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="ServerException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="TransferException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="TooManyRedirectsException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+<file name="SeekException.php" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132368184660000000" remote="132368184660000000" Dst="1" />
+</dwsync>

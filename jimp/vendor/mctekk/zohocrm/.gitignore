@@ -1,0 +1,9 @@
+.DS_STORE
+.DS_Store*
+phpunit.xml
+composer.phar
+composer.lock
+vendor/
+._*
+tests/_output/*
+.env

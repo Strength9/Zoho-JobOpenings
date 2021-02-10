@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="phpstan-baseline.neon" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="CHANGELOG.md" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="README.md" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="phpstan.neon.dist" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="composer.json" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="LICENSE" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="Makefile" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name=".php_cs.dist" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+<file name="psalm.xml" server="dademo.co.uk//var/www/vhosts/dademo.co.uk/dev.dademo.co.uk/" local="132459286480000000" remote="132459286480000000" Dst="1" />
+</dwsync>
